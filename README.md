@@ -1,15 +1,18 @@
 # Stepin-Real-estate-Advisor
+
+![Code inspector CodeQuality](https://www.code-inspector.com/project/27976/score/svg)
+
+<br>
+![Code inspector Grade](https://www.code-inspector.com/project/27976/status/svg)
+
+<br>
 [![Git Inspector](https://github.com/pavansai007/Stepin-Real-estate-Advisor/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/pavansai007/Stepin-Real-estate-Advisor/actions/workflows/git_inspector.yml)
 
 <br>
 
 [![cppcheck-action](https://github.com/pavansai007/Stepin-Real-estate-Advisor/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pavansai007/Stepin-Real-estate-Advisor/actions/workflows/cppcheck.yml)
 
-<br>
-![Code_inspector_CodeQuality](https://www.code-inspector.com/project/27976/score/svg)
 
-<br>
-![Code_inspector_Grade](https://www.code-inspector.com/project/27976/status/svg)
 
 
 
