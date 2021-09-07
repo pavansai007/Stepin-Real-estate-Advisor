@@ -6,10 +6,10 @@
 [![cppcheck-action](https://github.com/pavansai007/Stepin-Real-estate-Advisor/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/pavansai007/Stepin-Real-estate-Advisor/actions/workflows/cppcheck.yml)
 
 <br>
-![code_inspector_CodeQuality](https://www.code-inspector.com/project/27976/score/svg)
+![Code_inspector_CodeQuality](https://www.code-inspector.com/project/27976/score/svg)
 
 <br>
-![code_inspector_Grade](https://www.code-inspector.com/project/27976/status/svg)
+![Code_inspector_Grade](https://www.code-inspector.com/project/27976/status/svg)
 
 
 
