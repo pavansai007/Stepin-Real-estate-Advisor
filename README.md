@@ -22,6 +22,7 @@
 
 ## Make file cmd run
 MinGW32-make all
+<br>
 MinGW32-make run
 ## For testing
 MinGW32-make test
