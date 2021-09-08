@@ -19,6 +19,16 @@
 
 
 <br>
+
+## Make file cmd run
+MinGW32-make all
+MinGW32-make run
+## For testing
+MinGW32-make test
+## For debug
+MinGW32-make debug
+
+<br>
 ## Folder Structure
 
 | Folder             | Description                                   |
